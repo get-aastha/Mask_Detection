@@ -98,3 +98,18 @@ It iterates through epochs (complete training cycles), feeding batches of traini
     * Run the script from your terminal: `python mask_detection.py`
 
 The application will start processing your webcam video and display real-time mask detection results.
+
+# Output
+  
+Without Mask
+
+<img width="960" alt="2024-05-21 (8)" src="https://github.com/get-aastha/mask_detection/assets/108509128/ff48eac3-aab3-43be-b772-684ad73a9787">
+
+<img width="960" alt="2024-05-21 (9)" src="https://github.com/get-aastha/mask_detection/assets/108509128/3aa3a490-52f6-484b-98ed-cc31b29e24c6">
+
+With Mask
+
+<img width="960" alt="2024-05-21 (12)" src="https://github.com/get-aastha/mask_detection/assets/108509128/d45abc7c-827d-4770-b777-74da365492fc">
+
+<img width="960" alt="2024-05-21 (14)" src="https://github.com/get-aastha/mask_detection/assets/108509128/27c1a538-2546-40c3-908f-0e1c5cd51ace">
+
